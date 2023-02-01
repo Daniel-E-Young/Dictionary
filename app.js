@@ -26,8 +26,6 @@ search_Btn.addEventListener('click', function () {
                          </p>`;
     })
 
-    
-
                
     .catch(() => {
         if (!window.navigator.onLine) {
