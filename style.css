@@ -24,8 +24,8 @@ body {
 
 
 .area{
-    background: #4e54c8;  
-    background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(44,116,179,1) 42%, rgba(0,212,255,1) 100%); 
     width: 100%;
     height:100vh;
     
@@ -178,7 +178,7 @@ body {
     width: 89%;
     border: none;
     outline: none;
-    border-bottom: 3px solid #0b6562;
+    border-bottom: 3px solid #2c74b3;
     font-size: 16px;
 }
 .search-box button {
