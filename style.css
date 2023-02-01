@@ -103,7 +103,8 @@ footer{
 footer a{
 
 	color: #000;
-	Posiion: relative;	
+	Posiion: relative;
+	text-decoration: none;
 	
 
 }
