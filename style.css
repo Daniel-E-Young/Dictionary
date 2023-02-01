@@ -7,7 +7,7 @@
     font-family: "Plus Jakarta Sans", sans-serif;
 }
 body {
-    background-color: #004e4b;
+    background-color: #2c74b3;
 }
 .container {
     background-color: #ffffff;
@@ -36,7 +36,7 @@ body {
 .search-box button {
     padding: 15px 0;
     width: 10%;
-    background-color: #0b6562;
+    background-color: #2c74b3;
     border: none;
     outline: none;
     color: #ffffff;
