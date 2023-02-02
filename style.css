@@ -188,7 +188,7 @@ body {
     outline: none;
     color: #ffffff;
     border-radius: 5px;
-	cursor: pointer;
+    cursor: pointer;
 }
 .search-box button i {
    cursor: pointer;
@@ -243,7 +243,7 @@ footer{
     font-size: 1rem;
     color: white;
     position: relative;
-    top: 94vh;
+    top: auto;
 
 
 }
