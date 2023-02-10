@@ -26,7 +26,7 @@ search_Btn.addEventListener('click', function () {
                          </p>`;
     })
 
-               
+         
     .catch(() => {
         if (!window.navigator.onLine) {
             result.innerHTML = `<h3 class="error">You are offline</h3>`;;
@@ -36,7 +36,6 @@ search_Btn.addEventListener('click', function () {
          }
         
     });
-
               
 })
 
